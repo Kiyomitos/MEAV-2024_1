@@ -3,6 +3,6 @@ Repositório criado para disciplina de Métodos experimentais em Acústica e Vib
 
 Prof. orientador: Paulo H. Mareze, Dr. Eng.
 
-Alunos: Victor Kiyomi, Yan Caproni e Wellingtom Veiga.
+Alunos: Victor Kiyomi, Yan Caproni e Wellington Veiga.
 
 Email para contato: victor.estevam@eac.ufsm.br
